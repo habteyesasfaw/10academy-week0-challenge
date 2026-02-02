@@ -58,13 +58,6 @@ Use the following template (or similar) to capture Task 3 documentation:
 ## Insights Gained
 - Observations on how rule changes shaped agent behaviour.
 ```
-
-## Submission Checklist
-- [ ] Tenx MCP server connected and active.
-- [ ] Agent rules file reviewed, updated, and committed.
-- [ ] Documentation file(s) detailing work, successes, blockers, and insights.
-- [ ] Public GitHub repository contains all artifacts requested in the brief.
-
 ## Resources
 - Tenx MCP Analysis Documentation (internal reference).
 - Boris Cherny's Claude workflow thread on X.
@@ -72,6 +65,4 @@ Use the following template (or similar) to capture Task 3 documentation:
 
 ## Next Steps
 1. Complete the IDE-specific Tenx MCP configuration.
-2. Iterate on the rules file while testing the agent.
-3. Capture findings in the documentation template and push updates to GitHub.
-4. Share the repository link with the Tenx review team once satisfied.
+

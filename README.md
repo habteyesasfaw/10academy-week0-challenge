@@ -60,8 +60,6 @@ Use the following template (or similar) to capture Task 3 documentation:
 ```
 ## Resources
 - Tenx MCP Analysis Documentation (internal reference).
-- Boris Cherny's Claude workflow thread on X.
-- Official documentation for your IDE's MCP integration and agent rule configuration.
 
 ## Next Steps
 1. Complete the IDE-specific Tenx MCP configuration.
